@@ -157,9 +157,6 @@ header{
 }
 .products ul{list-style-type: none;}
 
-.products ul li+li{
-    margin-top: 1.36vh;
-}
 
 .products a{
     text-decoration: none;
@@ -242,7 +239,13 @@ header{
     cursor: pointer;
 }
 
-
+/*сусідні селектори*/
+.products ul li+li{
+    margin-top: 1.36vh;
+}
+i+b{
+    color: #322d2d;
+}
 
 /*  FOOTER */
 footer > p{
