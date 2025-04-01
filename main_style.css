@@ -274,14 +274,12 @@ footer i{
 
 .footer_info{
     margin-bottom: 60px;
+    margin-top: 60px;
+    padding-left: 10%;
+    padding-right: 20%;
 }
 .rights{
     font-size: 10px;
 }
 
-.footer_info{
-    margin-top: 60px;
-    padding-left: 10%;
-    padding-right: 20%;
-}
 
